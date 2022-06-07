@@ -1,0 +1,1 @@
+export 'auto_updater_platform_interface.dart';
